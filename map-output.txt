@@ -1,0 +1,417 @@
+
+
+s  <Tab>       *@<Lua 516: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/keymap/apply.lua:79>
+                 blink.cmp: Snippet Forward
+n  <Space>th   *@<Lua 583: ~/.config/nvim/lua/hakan/core/lsp.lua:99>
+                 LSP: [T]oggle Inlay [H]ints
+n  <Space>tw   *@<Lua 424: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:206>
+                 [T]oggle git intra-line [w]ord diff
+n  <Space>tb   *@<Lua 434: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:222>
+                 [T]oggle git show [b]lame line
+n  <Space>hq   *@<Lua 616: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:963>
+                 git hunk [q]uickfix list (all changes in this file)
+n  <Space>hQ   *@<Lua 578: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:48>
+                 git hunk [Q]uickfix list (all files in repo)
+n  <Space>hD   *@<Lua 544: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:47>
+                 git [D]iff against last commit
+n  <Space>hd   *@<Lua 582: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:851>
+                 git [d]iff against index
+n  <Space>hb   *@<Lua 619: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:45>
+                 git [b]lame line
+n  <Space>hi   *@<Lua 233: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:615>
+                 git preview hunk [i]nline
+n  <Space>hp   *@<Lua 494: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:609>
+                 git [p]review hunk
+n  <Space>hR   *@<Lua 498: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:406>
+                 git [R]eset buffer
+n  <Space>hS   *@<Lua 614: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:467>
+                 git [S]tage buffer
+n  <Space>hr   *@<Lua 194: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 git [r]eset hunk
+n  <Space>hs   *@<Lua 574: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 git [s]tage hunk
+v  <Space>hr   *@<Lua 501: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:37>
+                 git [r]eset hunk
+v  <Space>hs   *@<Lua 617: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:36>
+                 git [s]tage hunk
+n  K           *@<Lua 495: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp.lua:860>
+                 vim.lsp.buf.hover()
+n  [c          *@<Lua 477: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:26>
+                 Jump to previous git [c]hange
+n  ]c          *@<Lua 502: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:18>
+                 Jump to next git [c]hange
+n  grt         *@<Lua 608: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [G]oto [T]ype Definition
+n  gW          *@<Lua 607: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 Open Workspace Symbols
+n  gO          *@<Lua 606: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 Open Document Symbols
+n  grd         *@<Lua 605: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [G]oto [D]efinition
+n  gri         *@<Lua 604: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [G]oto [I]mplementation
+n  grr         *@<Lua 203: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [G]oto [R]eferences
+n  grD         *@<Lua 504: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp/buf.lua:336>
+                 LSP: [G]oto [D]eclaration
+x  gra         *@<Lua 503: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp/buf.lua:1350>
+                 LSP: [G]oto Code [A]ction
+n  gra         *@<Lua 200: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp/buf.lua:1350>
+                 LSP: [G]oto Code [A]ction
+n  grn         *@<Lua 575: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp/buf.lua:716>
+                 LSP: [R]e[n]ame
+x  ih          *@<Lua 588: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:624>
+o  ih          *@<Lua 581: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:624>
+s  <S-Tab>     *@<Lua 633: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/keymap/apply.lua:79>
+                 blink.cmp: Snippet Backward
+s  <C-K>       *@<Lua 720: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/keymap/apply.lua:79>
+                 blink.cmp: Show Signature, Hide Signature
+s  <Tab>       * <Lua 27: vim/_core/defaults.lua:0>
+                 vim.snippet.jump if active, otherwise <Tab>
+n  <Esc>       * <Cmd>nohlsearch<CR>
+v  <Space>f    * <Lua 284: ~/.config/nvim/lua/hakan/core/formatting.lua:46>
+                 [F]ormat buffer
+n  <Space>f    * <Lua 281: ~/.config/nvim/lua/hakan/core/formatting.lua:46>
+                 [F]ormat buffer
+n  <Space>lg   * <Cmd>LazyGit<CR>
+                 Open lazy git
+v  <Space>cf   * <Lua 262: ~/.config/nvim/lua/hakan/plugins/copilot.lua:43>
+                 Fix code
+v  <Space>ce   * <Lua 243: ~/.config/nvim/lua/hakan/plugins/copilot.lua:39>
+                 Explain code
+n  <Space>cx   * <Lua 236: ~/.config/nvim/lua/hakan/plugins/copilot.lua:35>
+                 Reset Copilot Chat
+n  <Space>cc   * <Lua 217: ~/.config/nvim/lua/hakan/plugins/copilot.lua:31>
+                 Open Copilot Chat
+n  <Space>B    * <Lua 225: ~/.config/nvim/lua/hakan/plugins/debug.lua:34>
+                 Debug: Set Breakpoint
+n  <Space>b    * <Lua 224: ~/.config/nvim/lua/hakan/plugins/debug.lua:31>
+                 Debug: Toggle Breakpoint
+n  <Space>sn   * <Lua 169: ~/.config/nvim/lua/hakan/core/searchnavigation.lua:140>
+                 [S]earch [N]eovim files
+n  <Space>s/   * <Lua 180: ~/.config/nvim/lua/hakan/core/searchnavigation.lua:132>
+                 [S]earch [/] in Open Files
+n  <Space>/    * <Lua 188: ~/.config/nvim/lua/hakan/core/searchnavigation.lua:122>
+                 [/] Fuzzily search in current buffer
+n  <Space><Space> * <Lua 189: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [ ] Find existing buffers
+n  <Space>sc   * <Lua 190: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [C]ommands
+n  <Space>s.   * <Lua 159: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch Recent Files ("." for repeat)
+n  <Space>sr   * <Lua 158: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [R]esume
+n  <Space>sd   * <Lua 196: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [D]iagnostics
+n  <Space>sg   * <Lua 197: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch by [G]rep
+v  <Space>sw   * <Lua 198: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch current [W]ord
+n  <Space>sw   * <Lua 173: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch current [W]ord
+n  <Space>ss   * <Lua 155: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [S]elect Telescope
+n  <Space>sf   * <Lua 150: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [F]iles
+n  <Space>sk   * <Lua 149: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [K]eymaps
+n  <Space>sh   * <Lua 146: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [S]earch [H]elp
+n  <Space>mrn  * <Lua 183: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Replace next surrounding
+n  <Space>mrl  * <Lua 181: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Replace previous surrounding
+n  <Space>mr   * <Lua 179: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Replace surrounding
+n  <Space>mdn  * <Lua 177: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Delete next surrounding
+n  <Space>mdl  * <Lua 175: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Delete previous surrounding
+n  <Space>md   * <Lua 157: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Delete surrounding
+x  <Space>ma   * :<C-U>lua MiniSurround.add("visual")<CR>
+                 Add surrounding to selection
+n  <Space>ma   * <Lua 126: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1265>
+                 Add surrounding
+n  <Space>q    * <Lua 85: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/diagnostic.lua:2784>
+                 Open diagnostic [Q]uickfix list
+v  <Space>r    * "hy:%s/<C-R>h/<C-R>h/gI<Left><Left><Left>
+                 Search and replace selected text
+n  <Space>cd   * :cd %:p:h<CR>:pwd<CR>
+                 Change working directory to current file's directory
+x  #           * <Lua 9: vim/_core/defaults.lua:0>
+                 :help v_#-default
+o  %             <Plug>(MatchitOperationForward)
+x  %             <Plug>(MatchitVisualForward)
+n  %             <Plug>(MatchitNormalForward)
+n  &           * :&&<CR>
+                 :help &-default
+x  *           * <Lua 6: vim/_core/defaults.lua:0>
+                 :help v_star-default
+x  @           * mode() ==# 'V' ? ':normal! @'.getcharstr().'<CR>' : '@'
+                 :help v_@-default
+x  Q           * mode() ==# 'V' ? ':normal! @<C-R>=reg_recorded()<CR><CR>' : 'Q'
+                 :help v_Q-default
+n  Y           * y$
+                 :help Y-default
+o  [%            <Plug>(MatchitOperationMultiBackward)
+x  [%            <Plug>(MatchitVisualMultiBackward)
+n  [%            <Plug>(MatchitNormalMultiBackward)
+x  [n          * <Lua 63: vim/_core/defaults.lua:0>
+                 Select previous node
+n  [<Space>    * <Lua 61: vim/_core/defaults.lua:0>
+                 Add empty line above cursor
+n  [B          * <Lua 59: vim/_core/defaults.lua:0>
+                 :brewind
+n  [b          * <Lua 57: vim/_core/defaults.lua:0>
+                 :bprevious
+n  [<C-T>      * <Lua 55: vim/_core/defaults.lua:0>
+                 :ptprevious
+n  [T          * <Lua 53: vim/_core/defaults.lua:0>
+                 :trewind
+n  [t          * <Lua 51: vim/_core/defaults.lua:0>
+                 :tprevious
+n  [A          * <Lua 49: vim/_core/defaults.lua:0>
+                 :rewind
+n  [a          * <Lua 47: vim/_core/defaults.lua:0>
+                 :previous
+n  [<C-L>      * <Lua 45: vim/_core/defaults.lua:0>
+                 :lpfile
+n  [L          * <Lua 43: vim/_core/defaults.lua:0>
+                 :lrewind
+n  [l          * <Lua 41: vim/_core/defaults.lua:0>
+                 :lprevious
+n  [<C-Q>      * <Lua 39: vim/_core/defaults.lua:0>
+                 :cpfile
+n  [Q          * <Lua 37: vim/_core/defaults.lua:0>
+                 :crewind
+n  [q          * <Lua 35: vim/_core/defaults.lua:0>
+                 :cprevious
+n  [D          * <Lua 33: vim/_core/defaults.lua:0>
+                 Jump to the first diagnostic in the current buffer
+n  [d          * <Lua 31: vim/_core/defaults.lua:0>
+                 Jump to the previous diagnostic in the current buffer
+n  \           * <Cmd>Neotree reveal<CR>
+                 NeoTree reveal
+o  ]%            <Plug>(MatchitOperationMultiForward)
+x  ]%            <Plug>(MatchitVisualMultiForward)
+n  ]%            <Plug>(MatchitNormalMultiForward)
+x  ]n          * <Lua 64: vim/_core/defaults.lua:0>
+                 Select next node
+n  ]<Space>    * <Lua 62: vim/_core/defaults.lua:0>
+                 Add empty line below cursor
+n  ]B          * <Lua 60: vim/_core/defaults.lua:0>
+                 :blast
+n  ]b          * <Lua 58: vim/_core/defaults.lua:0>
+                 :bnext
+n  ]<C-T>      * <Lua 56: vim/_core/defaults.lua:0>
+                 :ptnext
+n  ]T          * <Lua 54: vim/_core/defaults.lua:0>
+                 :tlast
+n  ]t          * <Lua 52: vim/_core/defaults.lua:0>
+                 :tnext
+n  ]A          * <Lua 50: vim/_core/defaults.lua:0>
+                 :last
+n  ]a          * <Lua 48: vim/_core/defaults.lua:0>
+                 :next
+n  ]<C-L>      * <Lua 46: vim/_core/defaults.lua:0>
+                 :lnfile
+n  ]L          * <Lua 44: vim/_core/defaults.lua:0>
+                 :llast
+n  ]l          * <Lua 42: vim/_core/defaults.lua:0>
+                 :lnext
+n  ]<C-Q>      * <Lua 40: vim/_core/defaults.lua:0>
+                 :cnfile
+n  ]Q          * <Lua 38: vim/_core/defaults.lua:0>
+                 :clast
+n  ]q          * <Lua 36: vim/_core/defaults.lua:0>
+                 :cnext
+n  ]D          * <Lua 32: vim/_core/defaults.lua:0>
+                 Jump to the last diagnostic in the current buffer
+n  ]d          * <Lua 30: vim/_core/defaults.lua:0>
+                 Jump to the next diagnostic in the current buffer
+x  a%            <Plug>(MatchitVisualTextObject)
+o  al            <Lua 123: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around last textobject
+o  aa            <Lua 122: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around next textobject
+x  al            <Lua 119: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around last textobject
+x  aa            <Lua 118: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around next textobject
+o  a             <Lua 116: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around textobject
+x  a             <Lua 114: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Around textobject
+o  an          * <Lua 66: vim/_core/defaults.lua:0>
+                 Select parent (outer) node
+x  an          * <Lua 65: vim/_core/defaults.lua:0>
+                 Select parent (outer) node
+o  g%            <Plug>(MatchitOperationBackward)
+x  g%            <Plug>(MatchitVisualBackward)
+n  g%            <Plug>(MatchitNormalBackward)
+o  g]            <Lua 113: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1288>
+                 Move to right "around"
+x  g]            <Lua 112: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1288>
+                 Move to right "around"
+n  g]            <Lua 111: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1288>
+                 Move to right "around"
+o  g[            <Lua 110: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1287>
+                 Move to left "around"
+x  g[            <Lua 109: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1287>
+                 Move to left "around"
+n  g[            <Lua 108: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1287>
+                 Move to left "around"
+n  gO          * <Lua 23: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.document_symbol()
+n  grt         * <Lua 22: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.type_definition()
+n  gri         * <Lua 21: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.implementation()
+n  grr         * <Lua 20: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.references()
+n  grx         * <Lua 19: vim/_core/defaults.lua:0>
+                 vim.lsp.codelens.run()
+x  gra         * <Lua 18: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.code_action()
+n  gra         * <Lua 17: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.code_action()
+n  grn         * <Lua 16: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.rename()
+o  gc          * <Lua 15: vim/_core/defaults.lua:0>
+                 Comment textobject
+n  gcc         * <Lua 14: vim/_core/defaults.lua:0>
+                 Toggle comment line
+x  gc          * <Lua 13: vim/_core/defaults.lua:0>
+                 Toggle comment
+n  gc          * <Lua 12: vim/_core/defaults.lua:0>
+                 Toggle comment
+x  gx          * <Lua 11: vim/_core/defaults.lua:0>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+n  gx          * <Lua 10: vim/_core/defaults.lua:0>
+                 Opens filepath or URI under cursor with the system handler (file explorer, web browser, …)
+o  il            <Lua 125: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside last textobject
+o  ii            <Lua 124: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside next textobject
+x  il            <Lua 121: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside last textobject
+x  ii            <Lua 120: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside next textobject
+o  i             <Lua 117: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside textobject
+x  i             <Lua 115: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/ai.lua:1291>
+                 Inside textobject
+o  in          * <Lua 68: vim/_core/defaults.lua:0>
+                 Select child (inner) node
+x  in          * <Lua 67: vim/_core/defaults.lua:0>
+                 Select child (inner) node
+n  shn         * <Lua 211: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Highlight next surrounding
+n  shl         * <Lua 209: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Highlight previous surrounding
+n  sh          * <Lua 165: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Highlight surrounding
+o  sFn         * <Lua 156: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next left surrounding
+x  sFn         * <Lua 205: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next left surrounding
+n  sFn         * <Lua 132: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next left surrounding
+o  sFl         * <Lua 193: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous left surrounding
+x  sFl         * <Lua 82: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous left surrounding
+n  sFl         * <Lua 160: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous left surrounding
+o  sF          * <Lua 171: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find left surrounding
+x  sF          * <Lua 199: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find left surrounding
+n  sF          * <Lua 131: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find left surrounding
+o  sfn         * <Lua 141: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next right surrounding
+x  sfn         * <Lua 195: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next right surrounding
+n  sfn         * <Lua 176: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find next right surrounding
+o  sfl         * <Lua 170: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous right surrounding
+x  sfl         * <Lua 191: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous right surrounding
+n  sfl         * <Lua 128: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find previous right surrounding
+o  s           * <Nop>
+o  sf          * <Lua 140: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find right surrounding
+x  s           * <Nop>
+x  sf          * <Lua 187: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find right surrounding
+n  s           * <Nop>
+n  sf          * <Lua 185: ~/.local/share/nvim/site/pack/core/opt/mini.nvim/lua/mini/surround.lua:1286>
+                 Find right surrounding
+v  <Plug>BlinkCmpDotRepeatHack * <Lua 500: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/lib/text_edits.lua:325>
+n  <Plug>BlinkCmpDotRepeatHack * <Lua 562: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/lib/text_edits.lua:325>
+x  <Plug>(MatchitVisualTextObject)   <Plug>(MatchitVisualMultiBackward)o<Plug>(MatchitVisualMultiForward)
+o  <Plug>(MatchitOperationMultiForward) * :<C-U>call matchit#MultiMatch("W",  "o")<CR>
+o  <Plug>(MatchitOperationMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "o")<CR>
+x  <Plug>(MatchitVisualMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>m'gv``
+x  <Plug>(MatchitVisualMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>m'gv``
+n  <Plug>(MatchitNormalMultiForward) * :<C-U>call matchit#MultiMatch("W",  "n")<CR>
+n  <Plug>(MatchitNormalMultiBackward) * :<C-U>call matchit#MultiMatch("bW", "n")<CR>
+o  <Plug>(MatchitOperationBackward) * :<C-U>call matchit#Match_wrapper('',0,'o')<CR>
+o  <Plug>(MatchitOperationForward) * :<C-U>call matchit#Match_wrapper('',1,'o')<CR>
+x  <Plug>(MatchitVisualBackward) * :<C-U>call matchit#Match_wrapper('',0,'v')<CR>m'gv``
+x  <Plug>(MatchitVisualForward) * :<C-U>call matchit#Match_wrapper('',1,'v')<CR>:if col("''") != col("$") | exe ":normal! m'" | endif<CR>gv``
+n  <Plug>(MatchitNormalBackward) * :<C-U>call matchit#Match_wrapper('',0,'n')<CR>
+n  <Plug>(MatchitNormalForward) * :<C-U>call matchit#Match_wrapper('',1,'n')<CR>
+n  <Plug>PlenaryTestFile * :lua require('plenary.test_harness').test_file(vim.fn.expand("%:p"))<CR>
+s  <Plug>luasnip-jump-prev * <Lua 357: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:57>
+                 LuaSnip: Jump to the previous node
+s  <Plug>luasnip-jump-next * <Lua 356: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:54>
+                 LuaSnip: Jump to the next node
+s  <Plug>luasnip-prev-choice * <Lua 355: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:51>
+                 LuaSnip: Change to the previous choice from the choiceNode
+s  <Plug>luasnip-next-choice * <Lua 354: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:48>
+                 LuaSnip: Change to the next choice from the choiceNode
+s  <Plug>luasnip-expand-snippet * <Lua 353: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:45>
+                 LuaSnip: Expand the current snippet
+s  <Plug>luasnip-expand-or-jump * <Lua 352: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:42>
+                 LuaSnip: Expand or jump in the current snippet
+   <Plug>luasnip-expand-repeat * <Lua 350: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:35>
+                 LuaSnip: Repeat last node expansion
+n  <Plug>luasnip-delete-check * <Lua 348: ~/.local/share/nvim/site/pack/core/opt/LuaSnip/plugin/luasnip.lua:28>
+                 LuaSnip: Removes current snippet from jumplist
+n  <Plug>(live-server-toggle) * <Lua 296: ~/.local/share/nvim/site/pack/core/opt/live-server.nvim/plugin/live-server.lua:38>
+                 Toggle live server
+n  <Plug>(live-server-stop) * <Lua 295: ~/.local/share/nvim/site/pack/core/opt/live-server.nvim/plugin/live-server.lua:35>
+                 Stop live server
+n  <Plug>(live-server-start) * <Lua 100: ~/.local/share/nvim/site/pack/core/opt/live-server.nvim/plugin/live-server.lua:32>
+                 Start live server
+n  <F7>        * <Lua 226: ~/.config/nvim/lua/hakan/plugins/debug.lua:38>
+                 Debug: See last session result.
+n  <F3>        * <Lua 223: ~/.config/nvim/lua/hakan/plugins/debug.lua:28>
+                 Debug: Step Out
+n  <F2>        * <Lua 222: ~/.config/nvim/lua/hakan/plugins/debug.lua:25>
+                 Debug: Step Over
+n  <F1>        * <Lua 221: ~/.config/nvim/lua/hakan/plugins/debug.lua:22>
+                 Debug: Step Into
+n  <F5>        * <Lua 220: ~/.config/nvim/lua/hakan/plugins/debug.lua:19>
+                 Debug: Start/Continue
+n  <C-K>       * <C-W><C-K>
+                 Move focus to the upper window
+n  <C-J>       * <C-W><NL>
+                 Move focus to the lower window
+n  <C-H>       * <C-W><C-H>
+                 Move focus to the left window
+n  <C-W><C-D>    <C-W>d
+                 Show diagnostics under the cursor
+n  <C-W>d      * <Lua 34: vim/_core/defaults.lua:0>
+                 Show diagnostics under the cursor
+s  <S-Tab>     * <Lua 29: vim/_core/defaults.lua:0>
+                 vim.snippet.jump if active, otherwise <S-Tab>
+s  <C-S>       * <Lua 25: vim/_core/defaults.lua:0>
+                 vim.lsp.buf.signature_help()
+n  <C-L>       * <C-W><C-L>
+                 Move focus to the right window

@@ -1,0 +1,64 @@
+
+s  <Tab>       *@<Lua 516: ~/.local/share/nvim/site/pack/core/opt/blink.cmp/lua/blink/cmp/keymap/apply.lua:79>
+                 blink.cmp: Snippet Forward
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>th   *@<Lua 583: ~/.config/nvim/lua/hakan/core/lsp.lua:99>
+                 LSP: [T]oggle Inlay [H]ints
+	Last set from ~/.config/nvim/init.lua (run Nvim with -V1 for more details)
+n  <Space>tw   *@<Lua 424: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:206>
+                 [T]oggle git intra-line [w]ord diff
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>tb   *@<Lua 434: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:222>
+                 [T]oggle git show [b]lame line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hq   *@<Lua 616: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:963>
+                 git hunk [q]uickfix list (all changes in this file)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hQ   *@<Lua 578: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:48>
+                 git hunk [Q]uickfix list (all files in repo)
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hD   *@<Lua 544: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:47>
+                 git [D]iff against last commit
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hd   *@<Lua 582: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:851>
+                 git [d]iff against index
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hb   *@<Lua 619: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:45>
+                 git [b]lame line
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hi   *@<Lua 233: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:615>
+                 git preview hunk [i]nline
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hp   *@<Lua 494: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:609>
+                 git [p]review hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hR   *@<Lua 498: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:406>
+                 git [R]eset buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hS   *@<Lua 614: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/actions.lua:467>
+                 git [S]tage buffer
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hr   *@<Lua 194: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 git [r]eset hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>hs   *@<Lua 574: ~/.local/share/nvim/site/pack/core/opt/gitsigns.nvim/lua/gitsigns/repeat.lua:4>
+                 git [s]tage hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+v  <Space>hr   *@<Lua 501: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:37>
+                 git [r]eset hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+v  <Space>hs   *@<Lua 617: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:36>
+                 git [s]tage hunk
+	Last set from Lua (run Nvim with -V1 for more details)
+n  K           *@<Lua 495: /snap/nvim/4790/usr/share/nvim/runtime/lua/vim/lsp.lua:860>
+                 vim.lsp.buf.hover()
+	Last set from Lua (run Nvim with -V1 for more details)
+n  [c          *@<Lua 477: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:26>
+                 Jump to previous git [c]hange
+	Last set from Lua (run Nvim with -V1 for more details)
+n  ]c          *@<Lua 502: ~/.config/nvim/lua/hakan/plugins/gitsigns.lua:18>
+                 Jump to next git [c]hange
+	Last set from Lua (run Nvim with -V1 for more details)
+n  grt         *@<Lua 608: ~/.local/share/nvim/site/pack/core/opt/telescope.nvim/lua/telescope/builtin/init.lua:675>
+                 [G]oto [T]ype Definition
+	Last set from ~/.config/nvim/init.lu

@@ -1,6 +1,5 @@
 .
 ./nvim-pack-lock.json
-./filestructure.txt
 ./lua
 ./lua/hakan
 ./lua/hakan/plugins
@@ -10,6 +9,7 @@
 ./lua/hakan/plugins/lint.lua
 ./lua/hakan/plugins/indent_line.lua
 ./lua/hakan/plugins/init.lua
+./lua/hakan/plugins/copilot.lua
 ./lua/hakan/plugins/gitsigns.lua
 ./lua/hakan/plugins/debug.lua
 ./lua/hakan/plugins/lazygit.lua
@@ -25,4 +25,9 @@
 ./lua/hakan/core/searchnavigation.lua
 ./lua/hakan/core/foundation.lua
 ./lua/hakan/utils.lua
+./lua/hakan/tools
+./lua/hakan/tools/customcommands.lua
+./lua/hakan/tools/export_keymaps.lua
+./lua/hakan/tools/init.lua
 ./init.lua
+./files.txt
